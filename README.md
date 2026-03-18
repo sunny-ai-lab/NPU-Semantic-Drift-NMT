@@ -48,3 +48,8 @@ The repository provides the full pipeline:
 
 Mi-Ae Yang  
 Chosun University  
+## Citation
+
+If you use this work, please cite:
+
+Yang, M.-A. (2026). Systematic Analysis of Hardware-Induced Semantic Drift: Meaning-Aware Evaluation of NPU-Accelerated Neural Machine Translation.
